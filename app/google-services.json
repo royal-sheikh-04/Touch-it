@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "213660822338",
+    "firebase_url": "https://touchit-88f4b.firebaseio.com",
+    "project_id": "touchit-88f4b",
+    "storage_bucket": "touchit-88f4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213660822338:android:c8cdccad7a2e80ae1db6db",
+        "android_client_info": {
+          "package_name": "com.example.touch_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213660822338-o8v6sofjoj4evh9ml99fffqkm4ene9qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmreVxusBT4FjFWOvI-HIUbkM7NWy0eCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213660822338-o8v6sofjoj4evh9ml99fffqkm4ene9qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
